@@ -1,0 +1,18 @@
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\bin\Debug\SpaceShooter2D.exe.config
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\bin\Debug\SpaceShooter2D.exe
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\bin\Debug\SpaceShooter2D.pdb
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.csprojResolveAssemblyReference.cache
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.Properties.Resources.resources
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.csproj.GenerateResource.Cache
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.exe
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.pdb
+C:\Users\ONUR\Desktop\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.SpaceShooter2D.resources
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\bin\Debug\SpaceShooter2D.exe.config
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.exe
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.pdb
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\bin\Debug\SpaceShooter2D.exe
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\bin\Debug\SpaceShooter2D.pdb
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.csprojResolveAssemblyReference.cache
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.SpaceShooter2D.resources
+C:\Users\ONUR\Desktop\Staj Dosyaları\Özgeçmiş ve Projeler\SpaceShooter2D\SpaceShooter2D\obj\Debug\SpaceShooter2D.csproj.GenerateResource.Cache
